@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
-PortalsVR includes functioning portals in Virtual Reality (VR) for Unity, and is adapted from [Portals](https://github.com/SebLague/Portals) (by Sebastian Lague) and [PocketPortalVR](https://github.com/andrewzimmer906/PocketPortalVR) (by Andrew Zimmer). It was made specifically for my research project on "VR Natural Walking in Impossible Spaces".
+PortalsVR includes functioning portals in Virtual Reality (VR) for Unity, and is adapted from [Portals](https://github.com/SebLague/Portals) (by Sebastian Lague) and [PocketPortalVR](https://github.com/andrewzimmer906/PocketPortalVR) (by Andrew Zimmer). It was made specifically for my research project on [VR Natural Walking in Impossible Spaces](https://daniellochner.itch.io/impossible-spaces-vr).
 
 The following is an extract from my research paper, which describe the main features:
 > ### 1. Rendering:
