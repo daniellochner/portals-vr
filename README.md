@@ -1,4 +1,5 @@
-![Thumbnail](https://user-images.githubusercontent.com/37551307/128266997-32c2e585-3053-41a8-bcd6-8448386fc3c1.png)
+![Thumbnail](https://user-images.githubusercontent.com/37551307/128268274-d162f9fc-425f-4b38-90ca-fde9d7e656b9.png)
+
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
