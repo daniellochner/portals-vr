@@ -4,7 +4,7 @@
 
 PortalsVR includes functioning portals in Virtual Reality (VR) for Unity, and is adapted from [Portals](https://github.com/SebLague/Portals) (by Sebastian Lague) and [PocketPortalVR](https://github.com/andrewzimmer906/PocketPortalVR) (by Andrew Zimmer). It was made specifically for my research project on [VR Natural Walking in Impossible Spaces](https://daniellochner.itch.io/impossible-spaces-vr).
 
-The following is an extract from my research paper, which describe the main features:
+The following is an extract from my [research paper](https://doi.org/10.1145/3487983.3488305), which describe the main features:
 > ### 1. Stereoscopic Rendering:
 > The view through a portal should align with what the user would see if they were transformed to a position and rotation with respect to the destination portal equivalent to their position and rotation with respect to the source portal. In order to correctly portray the view through a portal in VR, different images of the subspace beyond the portal need to be projected as textures onto the portal surface for each eye. For this, portals each required an additional camera and screen. Screens were then assigned to separate layers, and the users’ eyes culled so as to only view one screen per eye. The left and right portal cameras. could then render separate views for each eye, while tracking the position and rotation of an alias for each eye. The additional camera and projected image per portal does impact performance. This is partially compensated for using frustum culling and occlusion to determine whether a portal needs rendering.
 >
